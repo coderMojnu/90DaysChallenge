@@ -1,0 +1,54 @@
+ভোরে উঠে ফজরের নামাজ পড়লাম। একটু হাটাহাটি করলাম। সূরা কাহফের ১ পেজ কুরআন পড়লাম।
+
+start web developer journey | day-1
+=============================
+
+1. It will take 6-7 hours every day (90 Days) 
+2. Must be given priority than all other works
+3. Be unsocial in this 90 day and sacrifice all other enjoyable issue for your life.  
+
+There are 4 step to get a front end web developer job. How to become a Web Developer in five steps:
+===============================
+
+ 1. Learn HTML, CSS, Bootstrap, JavaScript
+ 2. Learn a Framework: React 
+ 3. Learn version control system: Git
+ 4. Learn CSS preprocessors: SASS, JS preprocessors: TypeScript
+
+There are lot of resources ready to help you. Remember those name.  
+=================================
+
+1. stackoverflow
+2. css tricks
+3. freecodecamp
+4. w3schools
+
+When you are stuck on coding problem, Take the time to read the error, copy it and search google to find the solution. 
+
+install VS code
+================
+1. Search google - 'download VS code and install it.
+2. Memorise shortcuts for use VS code
+
+install node
+============
+1. download node and install it
+2. node --version
+
+install git scm and create github account
+==============================
+1. download git and install 
+2. git --version
+3. create a github account
+
+Learn HTML as a beginner
+
+
+
+
+
+
+
+
+
+
